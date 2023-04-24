@@ -1,0 +1,4 @@
+SQL dosyası içindedir.
+/inter klasörü ADMİN panelinidir.
+/inter klasöründe data.php ile frontend kısmında data.php ve baglan.php yi güncelleyin.
+
